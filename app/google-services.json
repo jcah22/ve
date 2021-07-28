@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "662116953482",
+    "firebase_url": "https://ventaempleados-253bc-default-rtdb.firebaseio.com",
+    "project_id": "ventaempleados-253bc",
+    "storage_bucket": "ventaempleados-253bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662116953482:android:3efd9229af825546d36c73",
+        "android_client_info": {
+          "package_name": "com.jcah.ve"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662116953482-o4s5n8mj2ipjbddk4mv5o75fnb2otbi5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVeJHOfug3hvYyecyXbbtLpRaKFpOEupY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "662116953482-o4s5n8mj2ipjbddk4mv5o75fnb2otbi5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
