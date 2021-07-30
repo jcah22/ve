@@ -12,6 +12,8 @@ class MainActivity : AppCompatActivity() {
 
         val database = Firebase.database.reference
 
+        println("saludos desde nueva version de android ")
+
         
 
 
